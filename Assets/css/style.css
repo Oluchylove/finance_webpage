@@ -1,0 +1,253 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.custom-taskbar{
+    background-color: #f8f7ff;
+    padding: 5px;
+    height: 635px;
+    padding-left: 12px;
+}
+.custom_logo{
+    font-size: 20px;
+    color: #0f0e0ec9;
+}
+.custom_logo-main{
+     margin-right: 10px; 
+     box-shadow: 1px 1px 1px 1px #f5f5f5; 
+     background-color: #ffffff;
+    border-radius: 21px; 
+    border:none;
+    height: 35px;
+    width: 35px;
+    display: flex; 
+    justify-content: center; 
+    align-content: center; 
+    align-items: center; 
+}
+.custom-logotext{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0f0e0ec9;
+}
+.custom_taskIcon-btn{
+  background-color: #f8f7ff;
+  border:none;
+}
+.custom_taskIcon-btn:hover{
+  background-color: #ffffff;
+  border:none;
+}
+.custom_taskIcon{
+    margin-right: 16px;
+    font-size: 20px;
+}
+.custom-taskbar-sub{
+    padding: 3px;
+    border-radius: 5px;
+    color: #0f0e0ec9;
+    font-weight: 600;
+    border: none;
+    background-color: #f8f7ff;
+    
+
+}
+.custom-taskbar-sub:hover{
+    background-color: #ffffff;
+    padding: 3px;
+    border-radius: 5px;
+    color: #8a4fff;
+    font-weight: 600;
+    padding-right: 50px;
+    
+}
+.custom-taskbar-sub1{
+  padding: 3px;
+  border-radius: 5px;
+  color: #0f0e0ec9;
+  font-weight: 600;
+  border: none;
+  background-color: #f8f7ff;
+  
+
+}
+.custom-taskbar-sub1:hover{
+  background-color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+  color: #8a4fff;
+  font-weight: 600;
+  padding-right: 30px;
+  
+}
+.custom-dashboard-main{
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+.custom-dashboard-text{
+    font-size: 24px;
+    font-weight: 700;
+    color: #0f0e0ec9;
+}
+.search{
+    height: 30px;
+    background-color:#ffffff;
+    border: none;
+    width: 270px;
+
+    
+}
+.search:focus{
+    outline: none;
+}
+.search-icon{
+    margin-top: 3px;
+    margin-right: 5px;
+    color: #8a8a8a;
+}
+.custom-dashboard-search{
+    padding: 8px;
+    height: 45px;
+    background-color: #ffffff;
+    border: none;
+    border-radius:20px;
+    width: 300px;
+}
+.custom-Dcard{
+    background-color: #8a4fff;
+    width: 300px; 
+    padding: 10px; 
+    border-radius: 7px;
+}
+.custom-Dcard2{
+    background-color: #47a7b9;
+    width: 300px; 
+    padding: 10px; 
+    border-radius: 7px;
+}
+.Dcard-icon{
+    font-size: 23px;
+    color:#e9e9e9 ;
+}
+.Dcard-details{
+    margin-right: 20px;
+    color: #e9e9e9;
+    font-size: 20px;
+}
+.Dcard-balance{
+    font-weight: 700;
+    font-size: 20px;
+    color: #e9e9e9;
+}
+.Dcard-balance-text{
+    color: #d7d7d7;
+}
+.Dcard-name{
+    color: #d7d7d7;
+    font-size: 15px;
+
+}
+.Dcard-name-main{
+    color: #e9e9e9;
+    font-size: 16px;
+    font-weight: 600;
+}
+.activity{
+    font-weight: 700;
+    color: #0f0e0ec9;
+    font-size: 20px;
+}
+.activity-sub{
+    color: #8a8a8a
+}
+.activity-details{
+    background-color: #eceef2;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+.activity-txt{
+    color: #0f0e0ec9;
+    font-weight: 600;
+  }
+  .activity-txt-sub{
+    color: #0f0e0ec9;
+  }
+  .activity-txt-sub1{
+    color: #0aa379;
+  }
+  .activity-txt-sub2{
+    color: #f10f0f;
+    border: none;
+    border-radius: 7px;
+    padding: 5px;
+  }
+  .activity-txt-sub3{
+    color: #e8c206;
+  }
+  .activity-txt-sub4{
+    color: #f10f0f;
+  }
+  .profile{
+    padding: 5px;
+    padding-left: 12px;
+  }
+  .profile-icon{
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+    color: #0f0e0ec9;
+  }
+  .profile-icon:hover{
+    font-size: 18px;
+    color: #8a4fff;
+
+  }
+  .transfer-icon{
+    font-size: 40px;
+    color: #0f0e0ec9;
+  }
+  .transfer-icon:hover{
+    font-size: 40px;
+    color: #8a4fff;
+
+  }
+  .profile-icon-main{
+    border:none; 
+    height: 70px; 
+    width: 70px; 
+    border-radius: 40px; 
+    display: flex; 
+    justify-content: center; 
+    align-content: center; 
+    align-items: center; 
+    background-color: #ffffff;
+    box-shadow: 1px 1px 1px 1px #f5f5f5; 
+    margin-right: 37px;
+  }
+  .profile-icon-main2{
+    box-shadow: 1px 1px 1px 1px #f5f5f5;
+    background-color: #ffffff;
+    border: none;
+    height: 70px; 
+    width: 70px; 
+    border-radius: 40px;
+    display: flex; 
+    justify-content: center; 
+    align-content: center; 
+    align-items: center; 
+  }
+  .profile-text1{
+    margin-right: 35px;
+    font-weight: 600;
+
+  }
+  .profile-text{
+    font-weight: 600;
+  }
+  .images{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+  }
